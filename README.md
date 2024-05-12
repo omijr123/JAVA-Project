@@ -1,0 +1,1 @@
+Here it is an Java based project. In 2nd year 2nd semester in OODP-II course I made this project. To talk about these project here I made a online food delivery service which name is "Khudalaghche". Here user can order food in online.
