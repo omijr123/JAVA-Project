@@ -1,4 +1,4 @@
-Here it is an Java based project. In 2nd year 2nd semester in OODP-II course I made this project with my classmates. 
+Here it is an Java based project. In 2nd year 1st semester in OODP-II course I made this project with my classmates. 
 The Details description has giveen below of the project:
  Project Overview:
 "Khuda Lagse" is an online platform aimed at connecting customers with local restaurants and food vendors, providing them with a convenient and user-friendly way to order food and get it delivered to their doorsteps. This application is built using Java Swing/FX for the graphical user interface and MySQL for managing the back-end database.
