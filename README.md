@@ -29,25 +29,35 @@ The "Khuda Lagse" application follows a client-server architecture:
  Place Orders: Customers can place orders, view the total cost, and make payment.
 
  Key Features:
+
  Add New Product:
+
 Within the "Add New Product" section, the administrator has the capability to include fresh products, specifying both the product name and its corresponding price within a designated category.
  Change Password:
 Both the user and the administrator have the option to reset their passwords by answering their respective security questions.
+
  Manage Category:
 In the "Manage Category" section, the administrator can introduce new food categories into the category table, and subsequently, these categories are stored in the database for future use.
+
  Total Revenue:
 Under Total Revenue, the admin can see all the money generated from the orders placed by the users including the total list of orders stage.
+
  Place Order:
 In the "Place Order" section, users can select food items to place an order. Each time they click on a food item, an image of the selected food will appear. Users have the flexibility to adjust the quantity of the selected items. However, the final bill will not be generated unless they provide their name and phone number. Once these details are provided, a PDF of the bill will be generated at a later stage.
+
  Verify Users:
 In the Verify Users section, admins can verify new user accounts to allow access to the application's features, and disable existing user accounts.
+
  View Bills Order History:
 In the View Bills Order History section, admins can view a table of all orders placed by users, including the user's name, email address, total amount, phone number, and date. Admins can also filter the table by date or search by user name. Additionally, admins can sort the table in ascending or descending order by any column.
+
  View Order History:
 Under View, Edit, and Delete Products, admins can view a list of all products in their respective categories, including the product name, price, and product ID. Admins can also edit the product name, price, and category.
 Under View Order History, users can view a list of all orders they have placed in the app, including the order name, total amount, order ID, phone number, email, order date, total payment, and created by. Users can also click on an order to view a PDF of the bill.
+
  Slide Show of the Food Items:
 The food items will be displayed in a slideshow that slowly shuffles. Users can close the slideshow at any time, or click on the button to display it again.
+
  Restaurant Vendor/Admin Side:
  Manage Menu: Allows vendors to add, remove, or update menu items.
  Receive Orders: Vendors can view incoming orders, update order status, and manage transactions.
