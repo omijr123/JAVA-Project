@@ -1,17 +1,24 @@
 Here it is an Java based project. In 2nd year 1st semester in OODP-II course I made this project with my classmates. 
+
 The Details description has giveen below of the project:
+
  Project Overview:
 "Khuda Lagse" is an online platform aimed at connecting customers with local restaurants and food vendors, providing them with a convenient and user-friendly way to order food and get it delivered to their doorsteps. This application is built using Java Swing/FX for the graphical user interface and MySQL for managing the back-end database.
+
  Project Objectives:
+
 The main objectives of the "Khuda Lagse" project are:
+
  To create an intuitive and easy-to-use interface for customers to browse menus, place orders, and make payments.
  To provide restaurant vendors with a platform to showcase their menu, receive orders, and manage transactions.
  To ensure secure and efficient handling of customer data and transaction details.
  To facilitate updates on order status for both customers and vendors.
+
  System Architecture:
 The "Khuda Lagse" application follows a client-server architecture:
  Client Side (Java Swing/FX): This is the user interface through which customers interact with the service. It includes features like user registration, login, menu browsing and order placement.
  Server Side (MySQL Database): This stores all the necessary data including user information, restaurant details, menu items, and order status.
+
  Technologies Used:
  Java Swing/FX: Used for creating the graphical user interface of the application.
  MySQL: Used for storing and managing all the data related to users, restaurants, orders, and transactions.
@@ -20,6 +27,7 @@ The "Khuda Lagse" application follows a client-server architecture:
  Customer Side: User Registration and Login: Allows new users to register and existing users to log in.
  Browse Menus: Customers can browse through various restaurant menus and select items to add to their cart.
  Place Orders: Customers can place orders, view the total cost, and make payment.
+
  Key Features:
  Add New Product:
 Within the "Add New Product" section, the administrator has the capability to include fresh products, specifying both the product name and its corresponding price within a designated category.
@@ -44,6 +52,7 @@ The food items will be displayed in a slideshow that slowly shuffles. Users can 
  Manage Menu: Allows vendors to add, remove, or update menu items.
  Receive Orders: Vendors can view incoming orders, update order status, and manage transactions.
  View Transaction History: Vendors can view past transactions and order histories.
+
  Database Design:
 The MySQL database includes the following tables:
  Users: Stores customer and vendor details.
@@ -51,12 +60,15 @@ The MySQL database includes the following tables:
  Menu Items: Stores menu details for each restaurant.
  Orders: Stores details of customer orders.
  Transactions: Stores transaction details for each order.
+
  Challenges and Solutions:
  Security: Ensuring secure handling of user data and transaction details. This was mitigated by implementing encryption and secure connection protocols.
  Real-Time Updates: Ensuring that order status is updated in real-time for both customers and vendors. This was achieved using event-driven programming and database triggers.
+
  Future Enhancements:
  Mobile Application: Developing a mobile app version of the service.
  Enhanced User Interface: Further improvements to the user interface for a more seamless experience.
  Expansion of Services: Expanding the service to cover more areas and include more restaurant options.
+
  Conclusion:
 "Khuda Lagse" aims to provide a seamless and efficient online food ordering experience, connecting customers with a variety of local restaurants. By Java Swing/FX and MySQL, the application offers a robust and user-friendly platform for food delivery services. The system is well-equipped to handle customer orders and assist restaurant owners in managing their business operations. With the ever-increasing demand for such services, this project holds significant potential for expansion and growth.
